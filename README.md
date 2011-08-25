@@ -1,0 +1,1 @@
+Setting up a Windows Service with an installer in about 10 minutes.

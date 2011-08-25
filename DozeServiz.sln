@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serviz", "Serviz\Serviz.csproj", "{0ECEA959-3290-4AE3-8A0C-3769961E5F4A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dozer", "Dozer\Dozer.vdproj", "{C8339690-8525-413F-BC1E-B7EECC2310D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ECEA959-3290-4AE3-8A0C-3769961E5F4A}.Debug|x86.ActiveCfg = Debug|x86
+		{0ECEA959-3290-4AE3-8A0C-3769961E5F4A}.Debug|x86.Build.0 = Debug|x86
+		{0ECEA959-3290-4AE3-8A0C-3769961E5F4A}.Release|x86.ActiveCfg = Release|x86
+		{0ECEA959-3290-4AE3-8A0C-3769961E5F4A}.Release|x86.Build.0 = Release|x86
+		{C8339690-8525-413F-BC1E-B7EECC2310D0}.Debug|x86.ActiveCfg = Debug
+		{C8339690-8525-413F-BC1E-B7EECC2310D0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
