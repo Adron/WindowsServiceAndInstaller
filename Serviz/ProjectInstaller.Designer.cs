@@ -33,6 +33,7 @@
             // 
             // zeeServiceProcessInstaller
             // 
+            this.zeeServiceProcessInstaller.Account = System.ServiceProcess.ServiceAccount.LocalSystem;
             this.zeeServiceProcessInstaller.Password = null;
             this.zeeServiceProcessInstaller.Username = null;
             // 
